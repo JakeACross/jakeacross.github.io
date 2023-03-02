@@ -21,6 +21,9 @@ Please download 'myquast.py' file to your local. After you download it, you are 
 #### Output
     report.txt      4-line summary
     
+You report.txt should look like this
+<img src="quast_libs/html_saver/static/img/quast_logo_black.png" width="300" title="QUAST">
+    
 
     
 
