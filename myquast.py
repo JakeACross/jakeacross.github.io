@@ -50,7 +50,7 @@ for e in lst:
 # Open a file and write a report
 report = open(path + "report.txt", "w")
 l1 = f"Number of contigs: {len(lst)}\n"
-l2 = f"Total lenght of contigs: {total}\n"
+l2 = f"Total length of contigs: {total}\n"
 l3 = f"Length of the largest contig: {lst[0]}bp\n"
 l4 = f"N50: {n50}"
 report.writelines([l1, l2, l3, l4])
