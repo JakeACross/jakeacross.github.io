@@ -21,7 +21,7 @@ Please download 'myquast.py' file to your local. After you download it, you are 
 #### Output
     report.txt      4-line summary
 
-<img src="https://github.com/JakeACross/jakeacross.github.io/blob/main/documents/report.png" width="800" title="sample_report">
+<img src="https://github.com/JakeACross/jakeacross.github.io/blob/main/documents/report.png?raw=true" width="800" title="sample_report">
     
 
     
